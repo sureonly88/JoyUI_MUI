@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/base": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/joy": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.14.5/docs/data/joy/templates/files/App.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "l7kwhj",
+  "version": "0.0.0"
+}
